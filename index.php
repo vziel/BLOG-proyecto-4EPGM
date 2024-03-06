@@ -9,6 +9,7 @@ $alimento1 = [
 $alimento2 = [
    "Nombre" => "Pizza"
    "Calorias" => 266
+   "Precio" => 25
    ];
 
 
