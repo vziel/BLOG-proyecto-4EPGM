@@ -52,8 +52,6 @@ $alimento9 = [
    "Precio" => 15
    ];
 
-
-
 $alimento10 = [
    "Nombre" => "Enchiladas"
    "Calorias" => 127
@@ -71,7 +69,6 @@ $alimento12 = [
    "Calorias" => 30
    "Precio" => 4000
    ];
-
 
 $alimento13 = [
    "Nombre" => "Cerial integral con almendras"
