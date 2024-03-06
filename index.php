@@ -3,7 +3,7 @@
 $alimento1 = [
    "Nombre" => "Hamburguesa"
    "Calorias" => 300
-   "Precio" => 113
+   "Precio" => 113.8
    ];
 
 $alimento2 = [
@@ -15,7 +15,7 @@ $alimento2 = [
 $alimento3 = [
    "Nombre" => "Pollo frito"
    "Calorias" => 225
-   "Precio" => 104
+   "Precio" => 104.33
    ];
 
 $alimento4 = [
@@ -39,7 +39,7 @@ $alimento6 = [
 $alimento7 = [
    "Nombre" => "Kool-aid Uva"
    "Calorias" => 130
-   "Precio" => 55
+   "Precio" => 55.56
    ];
 
 $alimento8 = [
@@ -51,7 +51,7 @@ $alimento8 = [
 $alimento9 = [
    "Nombre" => "Bubu lubbu"
    "Calorias" => 131
-   "Precio" => 15
+   "Precio" => 15.4
    ];
 
 $alimento10 = [
@@ -69,7 +69,7 @@ $alimento11 = [
 $alimento12 = [
    "Nombre" => "Ensalada"
    "Calorias" => 30
-   "Precio" => 40
+   "Precio" => 40.5
    ];
 
 $alimento13 = [
@@ -93,7 +93,7 @@ $alimento15 = [
 $alimento16 = [
    "Nombre" => "Milanesas"
    "Calorias" =>  265
-   "Precio" => 189
+   "Precio" => 189.99
    ];
 
 $alimento17 = [
@@ -111,7 +111,7 @@ $alimento18 = [
 $alimento19 = [
    "Nombre" => "Ramen"
    "Calorias" => 100
-   "Precio" => 130
+   "Precio" => 130.11
    ];
 
 $alimento20 = [
