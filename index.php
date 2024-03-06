@@ -60,6 +60,17 @@ $alimento10 = [
    "Precio" => 258
    ];
 
+$alimento11 = [
+   "Nombre" => "Espaguetti"
+   "Calorias" => 300
+   "Precio" => 60
+   ];
+
+$alimento12 = [
+   "Nombre" => "Ensalada"
+   "Calorias" => 30
+   "Precio" => 4000
+   ];
 
 
 
