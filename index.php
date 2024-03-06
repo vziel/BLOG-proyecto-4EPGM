@@ -35,6 +35,7 @@ $alimento6 = [
    "Calorias" => 145
    "Precio" => 38
    ];
+
 $alimento7 = [
    "Nombre" => "Kool-aid Uva"
    "Calorias" => 130
@@ -46,6 +47,7 @@ $alimento8 = [
    "Calorias" => 580
    "Precio" => 240
    ];
+
 $alimento9 = [
    "Nombre" => "Bubu lubbu"
    "Calorias" => 131
