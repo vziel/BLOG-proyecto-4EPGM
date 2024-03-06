@@ -18,6 +18,12 @@ $alimento3 = [
    "Precio" => 104
    ];
 
+$alimento4 = [
+   "Nombre" => "Sandia fresca"
+   "Calorias" => "30"
+   "Precio" => 60
+   ];
+
 
 $menu = [
    
