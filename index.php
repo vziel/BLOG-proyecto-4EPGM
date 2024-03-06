@@ -120,8 +120,6 @@ $alimento20 = [
    "Precio" => 145
    ];
 
-
-
 $menu = [
    $alimento1,
    $alimento2,
@@ -144,8 +142,6 @@ $menu = [
    $alimento19,
    $alimento20,
 ];
-   
-   
 
 echo json_encode($menu);
 
