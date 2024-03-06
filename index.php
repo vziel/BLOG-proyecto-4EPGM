@@ -30,7 +30,7 @@ $menu = [
    $alimento2,
    $alimento3,
    $alimento4,
-   ]
+   ];
    
 echo json_encode($menu);
 
