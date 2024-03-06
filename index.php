@@ -67,7 +67,7 @@ $alimento11 = [
 $alimento12 = [
    "Nombre" => "Ensalada"
    "Calorias" => 30
-   "Precio" => 4000
+   "Precio" => 40
    ];
 
 $alimento13 = [
@@ -79,7 +79,7 @@ $alimento13 = [
 $alimento14 = [
    "Nombre" => "Jugo de especies verdes"
    "Calorias" => 85
-   "Precio" => 1000
+   "Precio" => 98
    ];
 
 $alimento15 = [
@@ -92,6 +92,12 @@ $alimento16 = [
    "Nombre" => "Milanesas"
    "Calorias" =>  265
    "Precio" => 189
+   ];
+
+$alimento17 = [
+   "Nombre" => "Jambalaya"
+   "Calorias" =>  109
+   "Precio" => 198
    ];
 
 
