@@ -14,13 +14,13 @@ $alimento2 = [
 
 $alimento3 = [
    "Nombre" => "Pollo frito"
-   "Calorias" => "225"
+   "Calorias" => 225
    "Precio" => 104
    ];
 
 $alimento4 = [
    "Nombre" => "Sandia fresca"
-   "Calorias" => "30"
+   "Calorias" => 30
    "Precio" => 60
    ];
 
@@ -36,20 +36,6 @@ $alimento6 = [
    "Precio" => 38
    ];
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 $menu = [
    $alimento1,
    $alimento2,
@@ -58,17 +44,6 @@ $menu = [
    $alimento5,
    $alimento6,
    ];
-
-
-
-
-
-
-
-
-
-
-
 
 echo json_encode($menu);
 
