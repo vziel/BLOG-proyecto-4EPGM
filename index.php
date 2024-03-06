@@ -112,6 +112,12 @@ $alimento19 = [
    "Precio" => 130
    ];
 
+$alimento20 = [
+   "Nombre" => "Frijoles con Tortillas de Harina"
+   "Calorias" => 300
+   "Precio" => 145
+   ];
+
 
 
 $menu = [
