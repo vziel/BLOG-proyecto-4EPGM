@@ -5,6 +5,13 @@ $alimento1 = [
    "Calorias" => 300
    ];
 
+$alimento2 = [
+   "Nombre" => "Pizza"
+   "Calorias" => 266
+   ];
+
+
+
 $menu = [
    
    ]
