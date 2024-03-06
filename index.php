@@ -24,14 +24,52 @@ $alimento4 = [
    "Precio" => 60
    ];
 
+$alimento5 = [
+   "Nombre" => "Teriyaki bichente"
+   "Calorias" => 456
+   "Precio" => 278
+   ];
+
+$alimento6 = [
+   "Nombre" => "aguas de jamaica,cebada,orchata,piña y naranja"
+   "Calorias" => 145
+   "Precio" => 38
+   ];
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 $menu = [
    $alimento1,
    $alimento2,
    $alimento3,
    $alimento4,
+   $alimento5,
+   $alimento6,
    ];
-   
+
+
+
+
+
+
+
+
+
+
+
+
 echo json_encode($menu);
 
 ?>
