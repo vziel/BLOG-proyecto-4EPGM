@@ -74,8 +74,10 @@ $menu = [
    $alimento6,
    $alimento7,
    $alimento8,
-   $alimento9,
-   ];
+  $alimento9,
+  $alimento10,
+   
+   
 
 echo json_encode($menu);
 
