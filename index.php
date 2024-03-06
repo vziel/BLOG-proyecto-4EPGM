@@ -73,19 +73,19 @@ $alimento12 = [
 $alimento13 = [
    "Nombre" => "Cerial integral con almendras"
    "Calorias" => 276
-   "Precio" => 10000000000000
+   "Precio" => 289
    ];
 
 $alimento14 = [
    "Nombre" => "Jugo de especies verdes"
    "Calorias" => 85
-   "Precio" => 21416234267452368945327
+   "Precio" => 1000
    ];
 
 $alimento15 = [
    "Nombre" => "quesadillas con camarones"
    "Calorias" => 300
-   "Precio" => 101010101010
+   "Precio" => 100
    ];
 
 $alimento16 = [
